@@ -3,6 +3,8 @@
 advertools app
 ==============
 
+python version used: 3.7.4
+
 Visual interface to the ``advertools`` package. No coding required
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
